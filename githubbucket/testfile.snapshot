@@ -3,7 +3,7 @@
     "dataModelVersion" : "2"
   },
   "content" : {
-    "comments" : "version 1",
+    "comments" : "version 123",
     "componentType" : "PROCESS_GROUP",
     "connections" : [ {
       "backPressureDataSizeThreshold" : "1 GB",
@@ -48,18 +48,7 @@
     } ],
     "identifier" : "12091151-df9f-350c-a222-16bdfa59dce3",
     "inputPorts" : [ ],
-    "labels" : [ {
-      "componentType" : "LABEL",
-      "groupIdentifier" : "12091151-df9f-350c-a222-16bdfa59dce3",
-      "height" : 150.0,
-      "identifier" : "9b40c066-ff33-3310-a7ba-af3eb81546a7",
-      "position" : {
-        "x" : 503.99997565282547,
-        "y" : 172.0000118804527
-      },
-      "style" : { },
-      "width" : 150.0
-    } ],
+    "labels" : [ ],
     "name" : "githubtest",
     "outputPorts" : [ ],
     "position" : {
