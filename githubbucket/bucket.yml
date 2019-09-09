@@ -1,5 +1,5 @@
 flows:
-  d288d7bd-e1bb-4619-919e-050924317607: {ver: 3, file: testfile.snapshot, comments: version2,
-    author: anonymous, created: 1568038489733, flowName: testfile, flowDesc: ''}
+  d288d7bd-e1bb-4619-919e-050924317607: {ver: 4, file: testfile.snapshot, comments: version
+      9, author: anonymous, created: 1568038840671, flowName: testfile, flowDesc: ''}
 layoutVer: 1
 bucketId: f4346336-aa7d-42fe-8ce0-551708201e4a
