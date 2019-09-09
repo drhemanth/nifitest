@@ -48,7 +48,18 @@
     } ],
     "identifier" : "12091151-df9f-350c-a222-16bdfa59dce3",
     "inputPorts" : [ ],
-    "labels" : [ ],
+    "labels" : [ {
+      "componentType" : "LABEL",
+      "groupIdentifier" : "12091151-df9f-350c-a222-16bdfa59dce3",
+      "height" : 150.0,
+      "identifier" : "d836002e-f3d1-39cf-b828-572462701333",
+      "position" : {
+        "x" : 476.99997565282547,
+        "y" : 99.00001188045269
+      },
+      "style" : { },
+      "width" : 150.0
+    } ],
     "name" : "githubtest",
     "outputPorts" : [ ],
     "position" : {
