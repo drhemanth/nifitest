@@ -3,7 +3,7 @@
     "dataModelVersion" : "2"
   },
   "content" : {
-    "comments" : "",
+    "comments" : "version",
     "componentType" : "PROCESS_GROUP",
     "connections" : [ {
       "backPressureDataSizeThreshold" : "1 GB",
